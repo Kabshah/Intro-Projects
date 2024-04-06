@@ -33,4 +33,5 @@ To exit the game, type "exit".
 Score Tracking:
 
 The game records the results of each game in a file named "score.txt"(file is provided in this rep for demonstration). Each line in the file represents a game counter and includes the outcome (win/loss/tie) as well as the score of winner.
+
 The game counter ends tracking when you type "exit" and resumes when you run the game again.
